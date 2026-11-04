@@ -2,5 +2,5 @@
 This repository contains scripts and analyses supporting the manuscript "Tandem repeats in methanogenic archaea and their viruses reveal a shared potential for rapid genomic diversification".
 
 The data includes:
-- tandem repeats finder python script that can allow mismatches (modified from https://github.com/rohansachdeva/tandem_repeats)
+- Python-based tandem repeat finder with mismatch tolerance (modified from https://github.com/rohansachdeva/tandem_repeats)
 - 
