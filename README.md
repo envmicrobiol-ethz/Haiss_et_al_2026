@@ -6,4 +6,3 @@ The data includes:
 2. Python-based notebook to calculate pairwise TR-similarity between genomes
 3. Python-based notebook to test for enrichment/depletion of TRs in genomic neighborhood (including visualization)
 4. Python-based notebook to test for enrichment/depletion of aaTRs in proteins
-5. R-script
