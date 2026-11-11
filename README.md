@@ -1,5 +1,4 @@
 # Haiss_et_al_2026
-***
 This repository contains scripts and analyses supporting the manuscript "Tandem repeats in methanogenic archaea and their viruses reveal a shared potential for rapid genomic diversification" (https://doi.org/10.64898/2026.10.30.763056). 
 ***
 The data includes:
