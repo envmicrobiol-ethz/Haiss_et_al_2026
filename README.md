@@ -4,6 +4,6 @@ This repository contains scripts and analyses supporting the manuscript "Tandem 
 The data includes:
 1. Python-based tandem repeat finder with mismatch tolerance (modified from https://github.com/rohansachdeva/tandem_repeats)
 2. Python-based notebook to calculate pairwise TR-similarity between genomes
-3. Python-based notebook to test for enrichment/depletion of TRs in genomic neighborhood
+3. Python-based notebook to test for enrichment/depletion of TRs in genomic neighborhood (including visualization)
 4. Python-based notebook to test for enrichment/depletion of aaTRs in proteins
 5. Python-based notebook to test the enrichment of TRs next to specific genes
